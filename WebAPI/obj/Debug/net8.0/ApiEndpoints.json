@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "MyApi.Controllers.ErrorHandlingController",
+    "Method": "GetDivisionResult",
+    "RelativePath": "api/ErrorHandling/division",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numerator",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "denominator",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
