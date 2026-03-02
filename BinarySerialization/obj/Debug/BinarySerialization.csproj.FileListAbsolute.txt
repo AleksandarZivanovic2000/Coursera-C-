@@ -1,0 +1,7 @@
+C:\Users\Aleksandar\Downloads\BinarySerialization\bin\Debug\BinarySerialization.exe.config
+C:\Users\Aleksandar\Downloads\BinarySerialization\bin\Debug\BinarySerialization.exe
+C:\Users\Aleksandar\Downloads\BinarySerialization\bin\Debug\BinarySerialization.pdb
+C:\Users\Aleksandar\Downloads\BinarySerialization\obj\Debug\BinarySerialization.csproj.AssemblyReference.cache
+C:\Users\Aleksandar\Downloads\BinarySerialization\obj\Debug\BinarySerialization.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Downloads\BinarySerialization\obj\Debug\BinarySerialization.exe
+C:\Users\Aleksandar\Downloads\BinarySerialization\obj\Debug\BinarySerialization.pdb
